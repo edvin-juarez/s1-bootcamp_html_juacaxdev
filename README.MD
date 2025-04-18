@@ -14,3 +14,7 @@ utilizamos los comandos git init, git status, git add ., git commit -m "", git p
 -h1 - h6
 -p
 -br
+meta (author , keyword viewport).
+
+## Etiquetas con atributos
+-img src "" - Alt "".
